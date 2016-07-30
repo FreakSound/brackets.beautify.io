@@ -11,5 +11,5 @@
     "unescape_strings": false,
     "wrap_line_length": 0,
     "git_happy": false,
-    "comma_first":true
+    "comma_first":false
 }
